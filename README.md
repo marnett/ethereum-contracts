@@ -1,2 +1,2 @@
-# ethereum-contracts
-Experimental Ethereum contracts in Serpent
+# Ethereum Contracts
+Experimental Ethereum contracts in Serpent language
